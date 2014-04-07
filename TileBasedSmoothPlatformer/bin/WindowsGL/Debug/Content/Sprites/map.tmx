@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="30" height="20" tilewidth="32" tileheight="32">
+ <tileset firstgid="1" name="tileset" tilewidth="32" tileheight="32">
+  <image source="../../../../../../Sprites/wall.png" width="32" height="32"/>
+  <tile id="0">
+   <properties>
+    <property name="texture" value="ContentManager.tWall"/>
+    <property name="wall" value="true"/>
+   </properties>
+  </tile>
+ </tileset>
+ <tileset firstgid="2" name="player" tilewidth="32" tileheight="32">
+  <image source="../../../../../../Sprites/hobgoblin.png" width="32" height="32"/>
+ </tileset>
+ <layer name="Tile Layer 1" width="30" height="20">
+  <data encoding="base64" compression="zlib">
+   eJztldsGACAQRNv//+keY3XZuYhoiKjm1Bpta0MBDKcQP9cdWA+VvzpXrbFyb3Uvw440r9Rvto6yM3fmVeU4asecRd7s4qL5ZjOxyxji42De9FKydWKv1tRMZ58do7KHFfP3OvsV0h/dPfLrTXVdagBs
+  </data>
+ </layer>
+ <objectgroup name="slopes" width="30" height="20">
+  <object name="slope1a" x="384" y="352">
+   <ellipse/>
+  </object>
+  <object name="slope1b" x="448" y="320" width="10" height="12">
+   <ellipse/>
+  </object>
+  <object name="slope2a" x="416" y="96">
+   <ellipse/>
+  </object>
+  <object name="slope2b" x="512" y="160">
+   <ellipse/>
+  </object>
+  <object name="slope3a" x="256" y="416">
+   <ellipse/>
+  </object>
+  <object name="slope3b" x="352" y="352" width="1">
+   <ellipse/>
+  </object>
+  <object name="slope4a" x="288" y="160">
+   <ellipse/>
+  </object>
+  <object name="slope4b" x="320" y="192">
+   <ellipse/>
+  </object>
+ </objectgroup>
+ <objectgroup name="playerLayer" width="30" height="20">
+  <object name="player" x="169" y="116"/>
+ </objectgroup>
+</map>

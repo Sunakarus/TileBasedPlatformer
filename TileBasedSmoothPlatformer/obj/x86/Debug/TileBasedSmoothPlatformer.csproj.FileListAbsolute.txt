@@ -1,0 +1,16 @@
+c:\users\hanthi\Disk Google\Dropbox\Projects\TileBasedSmoothPlatformer\TileBasedSmoothPlatformer\bin\WindowsGL\Debug\Content\Sprites\hobgoblin.png
+c:\users\hanthi\Disk Google\Dropbox\Projects\TileBasedSmoothPlatformer\TileBasedSmoothPlatformer\bin\WindowsGL\Debug\Content\Sprites\wall.png
+c:\users\hanthi\Disk Google\Dropbox\Projects\TileBasedSmoothPlatformer\TileBasedSmoothPlatformer\bin\WindowsGL\Debug\SDL.dll
+c:\users\hanthi\Disk Google\Dropbox\Projects\TileBasedSmoothPlatformer\TileBasedSmoothPlatformer\bin\WindowsGL\Debug\TileBasedSmoothPlatformer.exe
+c:\users\hanthi\Disk Google\Dropbox\Projects\TileBasedSmoothPlatformer\TileBasedSmoothPlatformer\bin\WindowsGL\Debug\TileBasedSmoothPlatformer.pdb
+c:\users\hanthi\Disk Google\Dropbox\Projects\TileBasedSmoothPlatformer\TileBasedSmoothPlatformer\bin\WindowsGL\Debug\Lidgren.Network.dll
+c:\users\hanthi\Disk Google\Dropbox\Projects\TileBasedSmoothPlatformer\TileBasedSmoothPlatformer\bin\WindowsGL\Debug\MonoGame.Framework.dll
+c:\users\hanthi\Disk Google\Dropbox\Projects\TileBasedSmoothPlatformer\TileBasedSmoothPlatformer\bin\WindowsGL\Debug\OpenTK.dll
+c:\users\hanthi\Disk Google\Dropbox\Projects\TileBasedSmoothPlatformer\TileBasedSmoothPlatformer\bin\WindowsGL\Debug\Tao.Sdl.dll
+c:\users\hanthi\Disk Google\Dropbox\Projects\TileBasedSmoothPlatformer\TileBasedSmoothPlatformer\obj\x86\Debug\TileBasedSmoothPlatformer.csprojResolveAssemblyReference.cache
+c:\users\hanthi\Disk Google\Dropbox\Projects\TileBasedSmoothPlatformer\TileBasedSmoothPlatformer\obj\x86\Debug\TileBasedSmoothPlatformer.exe
+c:\users\hanthi\Disk Google\Dropbox\Projects\TileBasedSmoothPlatformer\TileBasedSmoothPlatformer\obj\x86\Debug\TileBasedSmoothPlatformer.pdb
+c:\users\hanthi\Disk Google\Dropbox\Projects\TileBasedSmoothPlatformer\TileBasedSmoothPlatformer\bin\WindowsGL\Debug\Content\Fonts\tahoma.xnb
+C:\Users\HanThi\Disk Google\Dropbox\Projects\TileBasedSmoothPlatformer\TileBasedSmoothPlatformer\bin\WindowsGL\Debug\Content\Sprites\pixel.png
+C:\Users\HanThi\Disk Google\Dropbox\Projects\TileBasedSmoothPlatformer\TileBasedSmoothPlatformer\bin\WindowsGL\Debug\TiledSharp.dll
+C:\Users\HanThi\Disk Google\Dropbox\Projects\TileBasedSmoothPlatformer\TileBasedSmoothPlatformer\bin\WindowsGL\Debug\Content\Sprites\map.tmx
